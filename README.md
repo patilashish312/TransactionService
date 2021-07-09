@@ -2,6 +2,10 @@
 Spring boot based Account balance transaction webservice.
 
 This case study is Account transaction API.
+
+To run this project, we need to run `SpringBootStart.java` as java application.
+
+
 This Web service do mainly following operations-
 1. Get Accounts and balances 
 2. Register new account 
